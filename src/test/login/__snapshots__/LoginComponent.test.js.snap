@@ -1,0 +1,91 @@
+exports[`Login component Should match snapshot 1`] = `
+ShallowWrapper {
+  "length": 1,
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <[object Object]
+    destroyOnUnmount={true}
+    enableReinitialize={false}
+    forceUnregisterOnUnmount={false}
+    form="loginForm"
+    getFormState={[Function getFormState]}
+    keepDirtyOnReinitialize={false}
+    persistentSubmitErrors={false}
+    pure={true}
+    shouldAsyncValidate={[Function defaultShouldAsyncValidate]}
+    shouldError={[Function defaultShouldError]}
+    shouldValidate={[Function defaultShouldValidate]}
+    shouldWarn={[Function defaultShouldWarn]}
+    touchOnBlur={true}
+    touchOnChange={false}
+    updateUnregisteredFields={false} />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function batchedUpdates],
+    "getNode": [Function getNode],
+    "render": [Function render],
+    "simulateEvent": [Function simulateEvent],
+    "unmount": [Function unmount]
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "class",
+    "props": Object {
+      "destroyOnUnmount": true,
+      "enableReinitialize": false,
+      "forceUnregisterOnUnmount": false,
+      "form": "loginForm",
+      "forwardedRef": null,
+      "getFormState": [Function getFormState],
+      "keepDirtyOnReinitialize": false,
+      "persistentSubmitErrors": false,
+      "pure": true,
+      "shouldAsyncValidate": [Function defaultShouldAsyncValidate],
+      "shouldError": [Function defaultShouldError],
+      "shouldValidate": [Function defaultShouldValidate],
+      "shouldWarn": [Function defaultShouldWarn],
+      "touchOnBlur": true,
+      "touchOnChange": false,
+      "updateUnregisteredFields": false
+    },
+    "ref": null,
+    "rendered": null,
+    "type": [Function Hoc]
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "class",
+      "props": Object {
+        "destroyOnUnmount": true,
+        "enableReinitialize": false,
+        "forceUnregisterOnUnmount": false,
+        "form": "loginForm",
+        "forwardedRef": null,
+        "getFormState": [Function getFormState],
+        "keepDirtyOnReinitialize": false,
+        "persistentSubmitErrors": false,
+        "pure": true,
+        "shouldAsyncValidate": [Function defaultShouldAsyncValidate],
+        "shouldError": [Function defaultShouldError],
+        "shouldValidate": [Function defaultShouldValidate],
+        "shouldWarn": [Function defaultShouldWarn],
+        "touchOnBlur": true,
+        "touchOnChange": false,
+        "updateUnregisteredFields": false
+      },
+      "ref": null,
+      "rendered": null,
+      "type": [Function Hoc]
+    }
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true
+      }
+    },
+    "disableLifecycleMethods": true
+  }
+}
+`;
